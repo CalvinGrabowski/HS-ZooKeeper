@@ -1,0 +1,18 @@
+*** Technicly speaking I can add notes ***
+
+yy:Is it a small bear?:black bear
+
+//it won't read anything unless it has a colon
+
+yny:Is it used to the cold?:polar bear
+ny:Is it an aquatic creature?:dolphin
+ynny:big bear?:brown bear
+ynnnn:is it usually friendly?:rabbit
+nnn:Does it have legs?:a snake
+ynnnny:Is it a devil?:Tasnian Devil
+nyy:Does it have feet?:crocodile
+ynyn:Is it a bear?:penguin
+nyny:Does it have hair?:Walrus
+ynnnyn:Does it eat grass?:dog
+nynny:Is it larger than 5 meters?:Orca
+nynnyy:Is it a whale?:blue whale
